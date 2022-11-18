@@ -1,0 +1,23 @@
+{
+  "name": "m1_discord_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geusen/M1_Discord_Bot.git"
+  },
+  "author": "Geusen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geusen/M1_Discord_Bot/issues"
+  },
+  "homepage": "https://github.com/Geusen/M1_Discord_Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
