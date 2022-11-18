@@ -6,4 +6,4 @@ client.once('ready', () => { //ここにボットが起動した際のコード�
 	console.log('set up'); //黒い画面(コンソール)に「起動完了」と表示させる
 });
 
-client.login('トークン'); //ログインする
+client.login('process.env.TOKEN'); //ログインする
